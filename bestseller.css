@@ -1,0 +1,41 @@
+.price{
+    margin-left: 80px;
+}
+
+#money{
+    color: #022744;
+}
+
+.tt:hover{
+    color: rgb(0, 187, 255);
+}
+
+#na{
+    color: rgb(82, 82, 82);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#header{
+    height: 30px;
+}
+
+#but{
+    margin-top: 10px;
+}
+
+#ic{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: orange;
+}
+
+#txet{
+    font-size: 14px;
+}
+
+#buy{
+    font-size: 16px;
+    margin-top: 5px;
+}
+

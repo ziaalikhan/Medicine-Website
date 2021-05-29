@@ -1,0 +1,269 @@
+header{
+    background:#bef2ff;
+    width: 100%;
+    color: black;
+
+}
+
+
+
+#headerimg1{
+    box-shadow: 2px 2px 2px whitesmoke;
+}
+
+#header{
+    background-color:#bef2ff ;
+    width: 100%;
+    color: black;
+    height: 30px;
+}
+
+#ht{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#bt{
+    margin-left: -60px;
+    margin-top: -10px;
+}
+
+#cc{
+    color: black;
+}
+
+#cc:hover{
+    color: black;
+}
+
+#bb{
+    background-color: #bef2ff;
+    font-size: 15px;
+    text-align: end;
+    color:black;
+    margin-left:130px;
+}
+
+.text-white{
+    font-size: 10px;
+}
+
+
+
+#am{
+    font-size: 14px;
+    margin-left: 100px;
+    color: black;
+}
+
+#am:hover{
+    font-size: 14px;
+    margin-left: 100px;
+    color:black;
+    text-decoration: none;
+}
+
+
+.am{
+    font-size: 12px;
+    margin-left: 15px;
+    color: black;
+}
+
+#im{
+    width: 100%;
+    margin-top: 10px;
+    
+}
+
+#im1{
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;   
+}
+
+#im2{
+    border: 1px solid #bef2ff;
+}
+
+#imb{
+    border: 1px solid #bef2ff;
+    background-color: #bef2ff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#bag:hover{
+    color: #bef2ff ;
+}
+
+#imi{
+   color: black;
+}
+
+#ic{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: black;
+}
+
+#ic:hover{
+    color:  #bef2ff;
+}
+
+#buy{
+    font-size: 17px;
+    color: black;
+    margin-top: -5px;
+    margin-left: -10px;
+}
+
+#buy:hover{
+    color:  #76e4ff;
+    text-decoration: none;
+ 
+}
+
+#ah:hover{
+    color: #bef2ff;
+    text-decoration: none;
+}
+
+#ah{
+    font-size: 12px;
+}
+
+#ah1{
+    font-size: 12px;
+}
+
+#ah3{
+    font-size: 12px;
+}
+
+#ah:hover{
+    color: #bef2ff;
+    text-decoration: none;
+}
+
+#pole{
+    font-size: 45px;
+    margin-left: 20px;
+}
+
+
+.txt1{
+    background-color:#bef2ff;
+    padding: 8px;
+    width: 100%;
+    color: white;
+}
+
+.tt{
+    text-align: center;
+    color: black;
+}
+
+#money{
+    margin-top: 5px;
+}
+
+#but{
+    background-color:#bef2ff ;
+    color: black;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+#but:hover{
+    background-color: white;
+    color:  rgb(0, 128, 255);
+
+}
+
+.tt:hover{
+    color:#022744 ;
+    text-decoration: none;
+}
+
+.sideletter{
+    font-size: 11px;
+    color: black;
+    
+}
+
+.price{
+    border-top: 1px solid black ;
+    width: 80px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.sideletter:hover{
+    color:rgb(79, 79, 200);
+    text-decoration: none;
+}
+
+#txt1{
+    background-color:#022744 ;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 5px;
+    padding: 8px;
+    width: 100%;
+    color: white;
+}
+
+
+#txt{
+  
+    margin-bottom:-1px;
+}
+
+#ah2{
+    font-size: 14px;
+    margin-top:10px;
+}
+
+#sort{
+    font-size: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#ah3{
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+#ah2:hover{
+    color: orange;
+    text-decoration: none;
+}
+
+.vti{
+    background-color: rgb(214, 230, 249);
+    font-size: 16px;
+    margin-left: 5px;
+    padding: 8px;
+    width: 100%;
+    color: black;
+}
+
+.vti:hover{
+    background-color: rgba(230, 237, 246, 0.772);
+}
+
+@media(max-width:360px)
+{
+    #tt1{
+        font-size: 12px;
+        color: black;
+    }
+}
+
